@@ -12,3 +12,5 @@ Complete with synchronised sound-effects, texture mapping, on-screen text, and s
 * Space-bar allows you to jump.
 * i, k, j, l keys allow you to rotate the camera view.
 
+## Watch it in action ##
+https://www.youtube.com/watch?v=2WeP_ywWarU
